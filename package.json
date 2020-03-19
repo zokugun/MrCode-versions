@@ -1,0 +1,13 @@
+{
+	"name": "mrcode-versions",
+	"author": "Baptiste Augrain <daiyam@zokugun.org>",
+	"original-author": "Peter Squicciarini <stripedpajamas273@gmail.com>",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/zokugun/MrCode-versions"
+	},
+	"scripts": {
+		"test": "node integrity.js test"
+	}
+}
