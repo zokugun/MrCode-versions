@@ -1,1 +1,9 @@
-Missing data for version update; exiting...
+{
+  "url": "https://github.com/zokugun/MrCode/releases/download/1.61.0+21283/MrCode-ia32-1.61.0+21283.msi",
+  "name": "1.61.0+21283",
+  "version": "15d2e8df96c44038a93db7f2c619299dc9e2dc6c",
+  "productVersion": "1.61.0+21283",
+  "hash": "fb11c4c4de3ea8ba3eebd4f38f3eaeb989da6038",
+  "timestamp": "1633858787554",
+  "sha256hash": "bebf19d3971d8a6545e4ac21f6feba038c2b13ff5e9d1703466c327f5b9df62d"
+}
