@@ -1,1 +1,9 @@
-Missing data for version update; exiting...
+{
+  "url": "https://github.com/zokugun/MrCode/releases/download/1.61.0+21283/MrCode-x64-updates-disabled-1.61.0+21283.msi",
+  "name": "1.61.0+21283",
+  "version": "15d2e8df96c44038a93db7f2c619299dc9e2dc6c",
+  "productVersion": "1.61.0+21283",
+  "hash": "33886f4a08696d6dac3103afa9c848640b86a382",
+  "timestamp": "1633858757483",
+  "sha256hash": "4365b9b156784bcc67f7498738fe8897e58cdcac4fb9ab07b9e6d15e73fdb73e"
+}
