@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/zokugun/MrCode/releases/download/1.64.0+22036/MrCodeUserSetup-arm64-1.64.0.22036.exe",
-  "name": "1.64.0+22036",
-  "version": "4da691e429be3a5c5069a4ed804d740bf55c20ce",
-  "productVersion": "1.64.0+22036",
-  "hash": "6676e01e832def259de9a0ff0e0447d22d560089",
-  "timestamp": "1644074964802",
-  "sha256hash": "5137eb1f9a0d6d247f99f213cf866e1a52494a569c78eead15c9ccbfe74a5548"
+  "url": "https://github.com/zokugun/MrCode/releases/download/1.64.1+22040/MrCodeUserSetup-arm64-1.64.1.22040.exe",
+  "name": "1.64.1+22040",
+  "version": "bb85e64f1770d60ba97de036b5de478e986e599b",
+  "productVersion": "1.64.1+22040",
+  "hash": "6000b2c31f6b517099287276e99e9887458dff07",
+  "timestamp": "1644398572102",
+  "sha256hash": "97076e2723ef462c5aa4d34725476c08898e523c08ce988b379e98afd8e92666"
 }
