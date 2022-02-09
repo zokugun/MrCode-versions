@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/zokugun/MrCode/releases/download/1.64.0+22036/MrCode-linux-armhf-1.64.0.22036.tar.gz",
-  "name": "1.64.0+22036",
-  "version": "4da691e429be3a5c5069a4ed804d740bf55c20ce",
-  "productVersion": "1.64.0+22036",
-  "hash": "40476684ecd5c23d846748085c3cba7ebf892e44",
-  "timestamp": "1644074519303",
-  "sha256hash": "50c0b49ff90636f635990bc6d0e45590f5f6e16f1567a4080c51930056e80d80"
+  "url": "https://github.com/zokugun/MrCode/releases/download/1.64.1+22040/MrCode-linux-armhf-1.64.1.22040.tar.gz",
+  "name": "1.64.1+22040",
+  "version": "bb85e64f1770d60ba97de036b5de478e986e599b",
+  "productVersion": "1.64.1+22040",
+  "hash": "5c9c2318fbfb17762328615ae4c5206761dfa14c",
+  "timestamp": "1644397832553",
+  "sha256hash": "551d972b495dd2c4e305afdb2886eb8e3f5d8673b285c4e91088697087ce4a64"
 }
