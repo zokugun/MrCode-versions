@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/zokugun/MrCode/releases/download/1.64.0+22036/MrCode-ia32-1.64.0.22036.msi",
-  "name": "1.64.0+22036",
-  "version": "4da691e429be3a5c5069a4ed804d740bf55c20ce",
-  "productVersion": "1.64.0+22036",
-  "hash": "3e0c3237a956d7a26693d420d12d62426e15d64e",
-  "timestamp": "1644075346912",
-  "sha256hash": "c4dc8b5cebb604610fec0f358156d8a4ce896f29f00aca3bf0451817877d4d7f"
+  "url": "https://github.com/zokugun/MrCode/releases/download/1.64.1+22040/MrCode-ia32-1.64.1.22040.msi",
+  "name": "1.64.1+22040",
+  "version": "bb85e64f1770d60ba97de036b5de478e986e599b",
+  "productVersion": "1.64.1+22040",
+  "hash": "a29a088e7843ff1fbc025876af90461e5ee70450",
+  "timestamp": "1644398864128",
+  "sha256hash": "8c390b6f6b2e46b16454e947faeb47aaa5b74bcc460f8268aa751be89e481e1d"
 }
