@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/zokugun/MrCode/releases/download/1.65.2+22079/MrCode-win32-ia32-1.65.2.22079.zip",
-  "name": "1.65.2+22079",
-  "version": "b80b077ed1c3216d8e388d86b3bf45c2901c227f",
-  "productVersion": "1.65.2+22079",
-  "hash": "cb790719bb3fd446f0fd046d1e58474ab6f03671",
-  "timestamp": "1647803984362",
-  "sha256hash": "8a629ee3ff09f250cfa1797bdd9886c226c63a3c93185f1a50d0491f5d1f64a5"
+  "url": "https://github.com/zokugun/MrCode/releases/download/1.66.2+22113/MrCode-win32-ia32-1.66.2.22113.zip",
+  "name": "1.66.2+22113",
+  "version": "00d8b132ce0820283989b95349b63f181ccde016",
+  "productVersion": "1.66.2+22113",
+  "hash": "16bbcfa48681f5ccb3b01a10230dc558cf448132",
+  "timestamp": "1650706544635",
+  "sha256hash": "4d93839cc4d3c69348b17d447a93686f4fc7104532f2c4b0a53bb5c167b6f5a1"
 }
