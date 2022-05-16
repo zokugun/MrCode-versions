@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/zokugun/MrCode/releases/download/1.66.2+22113/MrCode-x64-updates-disabled-1.66.2.22113.msi",
-  "name": "1.66.2+22113",
-  "version": "49d6f6211d7b7eb731dcb508c3b0c4b9db698072",
-  "productVersion": "1.66.2+22113",
-  "hash": "897f83236fbdb7a70411345e29cd6fb2544afd20",
-  "timestamp": "1650726979938",
-  "sha256hash": "cd94706b6c7f4bc1f99631f9a58951a12144939d943d9c6f6bde18f16fb7b0c2"
+  "url": "https://github.com/zokugun/MrCode/releases/download/1.67.1+22135/MrCode-x64-updates-disabled-1.67.1.22135.msi",
+  "name": "1.67.1+22135",
+  "version": "760cf63561362f9409f95325f2ceeed4490e2811",
+  "productVersion": "1.67.1+22135",
+  "hash": "dcded3c47f01d6e354be700e67ae45d617f4472a",
+  "timestamp": "1652660909741",
+  "sha256hash": "51c8d0ef1218a9e363d656af30bd8779b4eeb3eb72887a7e655a4ce4a30b0de6"
 }

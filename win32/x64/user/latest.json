@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/zokugun/MrCode/releases/download/1.66.2+22113/MrCodeUserSetup-x64-1.66.2.22113.exe",
-  "name": "1.66.2+22113",
-  "version": "49d6f6211d7b7eb731dcb508c3b0c4b9db698072",
-  "productVersion": "1.66.2+22113",
-  "hash": "17c3b26a29fa1ce7c264baf27b6696be0166a733",
-  "timestamp": "1650726979025",
-  "sha256hash": "302c6e6b755907dcb377c22ce975954d01f657ba776626db57d65dd050211821"
+  "url": "https://github.com/zokugun/MrCode/releases/download/1.67.1+22135/MrCodeUserSetup-x64-1.67.1.22135.exe",
+  "name": "1.67.1+22135",
+  "version": "760cf63561362f9409f95325f2ceeed4490e2811",
+  "productVersion": "1.67.1+22135",
+  "hash": "331d81c5160647d76171a45096e8bdd487f6e61b",
+  "timestamp": "1652660908689",
+  "sha256hash": "af4aa0053c3dfb135d01a42391d3fdba05c0b0e2489fb831d9e514cbceb23d11"
 }
