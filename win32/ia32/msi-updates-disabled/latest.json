@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/zokugun/MrCode/releases/download/1.67.1+22135/MrCode-ia32-updates-disabled-1.67.1.22135.msi",
-  "name": "1.67.1+22135",
-  "version": "760cf63561362f9409f95325f2ceeed4490e2811",
-  "productVersion": "1.67.1+22135",
-  "hash": "005e58991cf7eac2e5a2fa6e6a1c2325e869e2ad",
-  "timestamp": "1652660529284",
-  "sha256hash": "71449a45de71b99f74bad30628e60d4a5d06c2d0bd5c9c7da119ae742863152d"
+  "url": "https://github.com/zokugun/MrCode/releases/download/1.67.2+22140/MrCode-ia32-updates-disabled-1.67.2.22140.msi",
+  "name": "1.67.2+22140",
+  "version": "e3e3b21df324e09bbb8919f800eace9aa21e0d38",
+  "productVersion": "1.67.2+22140",
+  "hash": "3382a6649897730af37ef111e90bd5389132e5a8",
+  "timestamp": "1653046269293",
+  "sha256hash": "2f6a8c3dd5703e29cf342431d485326ba0d98c37f4ebc5bf7ccd1d5c3db2dba1"
 }
