@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/zokugun/MrCode/releases/download/1.67.2+22140/MrCode-linux-x64-1.67.2.22140.tar.gz",
-  "name": "1.67.2+22140",
-  "version": "e3e3b21df324e09bbb8919f800eace9aa21e0d38",
-  "productVersion": "1.67.2+22140",
-  "hash": "a6275adc6accb228c1c23af3e3971d476c52b9bf",
-  "timestamp": "1653045267181",
-  "sha256hash": "ea910f73e669e15e36ce2da96adb723570c7c399344d98732abb8eadc37f77b7"
+  "url": "https://github.com/zokugun/MrCode/releases/download/1.79.0.23164/MrCode-linux-x64-1.79.0.23164.tar.gz",
+  "name": "1.79.0.23164",
+  "version": "aa0dd4343abdd22683be344487372cecf6aaaf5b",
+  "productVersion": "1.79.0.23164",
+  "hash": "e618ddf4ba0dbf63cf98667bdff74f722debb665",
+  "timestamp": "1686667150312",
+  "sha256hash": "53d8484729223b0404178f66c125bbf65f965ea35d9c03a59970f2609e955728"
 }
