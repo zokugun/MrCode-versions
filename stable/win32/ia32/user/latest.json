@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/zokugun/MrCode/releases/download/1.79.2.23166/MrCodeUserSetup-ia32-1.79.2.23166.exe",
-  "name": "1.79.2.23166",
-  "version": "19c0f5cefaeb2637b45a9c7a356151fcfdcda1e9",
-  "productVersion": "1.79.2.23166",
-  "hash": "5506e0c3a21b25be40940692ecc4121f648b1f50",
-  "timestamp": "1686855634049",
-  "sha256hash": "667298f896b2e446baf60c5b3373dbc9fe7654403f3ff053b8c0759ac3c817f0"
+  "url": "https://github.com/zokugun/MrCode/releases/download/1.82.0.23253/MrCodeUserSetup-ia32-1.82.0.23253.exe",
+  "name": "1.82.0.23253",
+  "version": "dcd3c21c3fb14aee6876ddad578000d0f0c41c5d",
+  "productVersion": "1.82.0.23253",
+  "hash": "e70d9ecf0e685026e570e9eace3987e5d896a29f",
+  "timestamp": "1694349664972",
+  "sha256hash": "14bbaca3394e370d40645675ca8bd5a4ddb3548c87c66374bdfe49badcee7c44"
 }
