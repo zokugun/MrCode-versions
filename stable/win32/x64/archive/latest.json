@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/zokugun/MrCode/releases/download/1.79.2.23166/MrCode-win32-x64-1.79.2.23166.zip",
-  "name": "1.79.2.23166",
-  "version": "19c0f5cefaeb2637b45a9c7a356151fcfdcda1e9",
-  "productVersion": "1.79.2.23166",
-  "hash": "8eb7c1e696e4f3e7a85620bf0cc2f04051780a00",
-  "timestamp": "1686856798914",
-  "sha256hash": "27c1812a0b79c631dd8543ac26e500da04766c6a920462e637b115142b23b995"
+  "url": "https://github.com/zokugun/MrCode/releases/download/1.82.0.23253/MrCode-win32-x64-1.82.0.23253.zip",
+  "name": "1.82.0.23253",
+  "version": "dcd3c21c3fb14aee6876ddad578000d0f0c41c5d",
+  "productVersion": "1.82.0.23253",
+  "hash": "da34df2c9b02cd96a80812f9fa98197acbb754f6",
+  "timestamp": "1694351069384",
+  "sha256hash": "b5bd352cae9e8886a9bffdedfff20a84093f77a5e23ddabe220471275717207e"
 }
