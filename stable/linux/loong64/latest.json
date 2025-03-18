@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/zokugun/MrCode/releases/download/1.98.2.25076/MrCode-linux-loong64-1.98.2.25076.tar.gz",
-  "name": "1.98.2.25076",
-  "version": "6a18b4bca204548d3c54b57e1bd3b970204e6008",
-  "productVersion": "1.98.2.25076",
-  "hash": "8161ad0c34042318c61383d557778ed578fd0102",
-  "timestamp": "1742261944253",
-  "sha256hash": "113a01b1a307dec2462f7b6e8a0f3d92ea198b28ccd410b7ccceca15a5b088ae"
+  "url": "https://github.com/zokugun/MrCode/releases/download/1.98.2.25077/MrCode-linux-loong64-1.98.2.25077.tar.gz",
+  "name": "1.98.2.25077",
+  "version": "e58affbb4d12cbb8e7b11a6555ddf40e61ca59ab",
+  "productVersion": "1.98.2.25077",
+  "hash": "198ef8255278f8287fc9b903c1fca26400dc9493",
+  "timestamp": "1742325843229",
+  "sha256hash": "b15c20acb5bf349cbeb518cfaec0652367864a5127a5e6f79038560cced706e8"
 }
