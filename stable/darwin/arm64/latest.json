@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/zokugun/MrCode/releases/download/1.98.2.25077/MrCode-darwin-arm64-1.98.2.25077.zip",
-  "name": "1.98.2.25077",
-  "version": "e58affbb4d12cbb8e7b11a6555ddf40e61ca59ab",
-  "productVersion": "1.98.2.25077",
-  "hash": "1a1c41b186221a44273555fda37ba60de7c2f783",
-  "timestamp": "1742324665513",
-  "sha256hash": "9600acaa4bb2180f9787c830073c3f9754256558e086f123fcb4946e7d057f38"
+  "url": "https://github.com/zokugun/MrCode/releases/download/1.99.22517/MrCode-darwin-arm64-1.99.22517.zip",
+  "name": "1.99.22517",
+  "version": "f5da62911869e75a7a5e85db5515e8a0f83cf567",
+  "productVersion": "1.99.22517.0",
+  "hash": "e8ed52d8a48cf3b911983f499e54cc2cbaafff0d",
+  "timestamp": "1744669570623",
+  "sha256hash": "810a6fa4688b0dae69f83053338d42eaffaab4ad705f8e1ca8fe430ed9915288"
 }
