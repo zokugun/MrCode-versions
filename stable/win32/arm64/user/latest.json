@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/zokugun/MrCode/releases/download/1.98.2.25077/MrCodeUserSetup-arm64-1.98.2.25077.exe",
-  "name": "1.98.2.25077",
-  "version": "e58affbb4d12cbb8e7b11a6555ddf40e61ca59ab",
-  "productVersion": "1.98.2.25077",
-  "hash": "f290255a5e51b94982aa7764858eeeac6dbc5cfb",
-  "timestamp": "1742326500466",
-  "sha256hash": "bd801dab3049c9a13daf0bed5ac7e18b6d35ca61a661b16d535ec05c37d9010b"
+  "url": "https://github.com/zokugun/MrCode/releases/download/1.99.22517/MrCodeUserSetup-arm64-1.99.22517.exe",
+  "name": "1.99.22517",
+  "version": "f5da62911869e75a7a5e85db5515e8a0f83cf567",
+  "productVersion": "1.99.22517.0",
+  "hash": "dfc02b861d7b78ae4796dbdb104f7871efb7899e",
+  "timestamp": "1744685054084",
+  "sha256hash": "740c2e4210f97ca529acb0c918a72180a563354dec0ee0d2bc72ad201306d739"
 }
