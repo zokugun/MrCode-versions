@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/zokugun/MrCode/releases/download/1.99.22517/MrCode-linux-riscv64-1.99.22517.tar.gz",
-  "name": "1.99.22517",
-  "version": "f5da62911869e75a7a5e85db5515e8a0f83cf567",
-  "productVersion": "1.99.22517.0",
-  "hash": "fe30d7fb5b7cf15a1c07d56e4032176cc3447baf",
-  "timestamp": "1744668930002",
-  "sha256hash": "231f2b4345e97f15ae91c0d878169c2622fb11b88711e699f58c61d031264143"
+  "url": "https://github.com/zokugun/MrCode/releases/download/1.103.05321/MrCode-linux-riscv64-1.103.05321.tar.gz",
+  "name": "1.103.05321",
+  "version": "b44e943b1b1ba852e3a3675273970d7a60d2dde3",
+  "productVersion": "1.103.5321.0",
+  "hash": "d908c8fedd7a2957587ed1840b3cd42fafe4b6a0",
+  "timestamp": "1754761027181",
+  "sha256hash": "1a3ec5839b677f41c45e5e37476f2a6fec5e334322fe7df60e8d6f64263cc826"
 }
