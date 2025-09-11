@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/zokugun/MrCode/releases/download/1.103.05321/MrCode-linux-ppc64le-1.103.05321.tar.gz",
-  "name": "1.103.05321",
-  "version": "b44e943b1b1ba852e3a3675273970d7a60d2dde3",
-  "productVersion": "1.103.5321.0",
-  "hash": "065f0d2681c5d4c99132bb64aa3ec77cd8959de2",
-  "timestamp": "1754761038827",
-  "sha256hash": "d2aaf9a8b4acb2a5c3ecc3a67834a04bcd8e9af707328a52cab2eed6bd2b7bb6"
+  "url": "https://github.com/zokugun/MrCode/releases/download/1.104.06115/MrCode-linux-ppc64le-1.104.06115.tar.gz",
+  "name": "1.104.06115",
+  "version": "3e9a8c69342dc6c96a6acd47e69681c860ad5dc4",
+  "productVersion": "1.104.6115.0",
+  "hash": "781c57c7416892a286ba972e4b4ca7c3b1e8c778",
+  "timestamp": "1757623399316",
+  "sha256hash": "8d26fcae27cfba258f878c0ec43789204306d4c65a3dca415a04a4c2e79dc23b"
 }
