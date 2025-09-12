@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/zokugun/MrCode/releases/download/1.104.06115/MrCode-linux-arm64-1.104.06115.tar.gz",
-  "name": "1.104.06115",
-  "version": "3e9a8c69342dc6c96a6acd47e69681c860ad5dc4",
-  "productVersion": "1.104.6115.0",
-  "hash": "fb14bbe2624849b0a997fab57f256b27489a95f2",
-  "timestamp": "1757623734443",
-  "sha256hash": "d8d7c422ce2b454325d5c99bce06352313dcf32f16befff73f77e733af54c75e"
+  "url": "https://github.com/zokugun/MrCode/releases/download/1.104.06119/MrCode-linux-arm64-1.104.06119.tar.gz",
+  "name": "1.104.06119",
+  "version": "c5857654ff31a28dff4e4ca5d7e1c3156cd2d2d9",
+  "productVersion": "1.104.6119.0",
+  "hash": "70565a87696e46d891f953f4774ab8ed0243ec7e",
+  "timestamp": "1757635872484",
+  "sha256hash": "bb89dac0ba896ebe826d74f56f307e98f025948105a99f114acc4f367d9edb65"
 }
