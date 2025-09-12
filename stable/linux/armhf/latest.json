@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/zokugun/MrCode/releases/download/1.104.06115/MrCode-linux-armhf-1.104.06115.tar.gz",
-  "name": "1.104.06115",
-  "version": "3e9a8c69342dc6c96a6acd47e69681c860ad5dc4",
-  "productVersion": "1.104.6115.0",
-  "hash": "1cf3dcee4e3d98bb3faa89e4b4ae0c3254ccb6b7",
-  "timestamp": "1757623675215",
-  "sha256hash": "a5167f717f3a5b472f29f869bae01efcf31b0955c93c6add89a6c25c7ad58f81"
+  "url": "https://github.com/zokugun/MrCode/releases/download/1.104.06119/MrCode-linux-armhf-1.104.06119.tar.gz",
+  "name": "1.104.06119",
+  "version": "c5857654ff31a28dff4e4ca5d7e1c3156cd2d2d9",
+  "productVersion": "1.104.6119.0",
+  "hash": "17b28110d49468c93a930479bb1a7deb6eebd21b",
+  "timestamp": "1757635843389",
+  "sha256hash": "5f7b3e36f61b1b55d17d3006f10ea2f538368a4b62af76976e2a132c088d492d"
 }
