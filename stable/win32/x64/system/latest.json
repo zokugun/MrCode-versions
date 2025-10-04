@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/zokugun/MrCode/releases/download/1.104.26452/MrCodeSetup-x64-1.104.26452.exe",
-  "name": "1.104.26452",
-  "version": "7ebefe79e8713880b8b228bd735b1a9c70700931",
-  "productVersion": "1.104.26452.0",
-  "hash": "fcac3459f4a6d583593af347419f81888a00ee18",
-  "timestamp": "1758835692140",
-  "sha256hash": "e645bfaa66c12a5bf3b189bbf9a85927748b03de279db8734d155b4a56a0b7de"
+  "url": "https://github.com/zokugun/MrCode/releases/download/1.104.36668/MrCodeSetup-x64-1.104.36668.exe",
+  "name": "1.104.36668",
+  "version": "bba58345c60880c658735a167cb6ccc5b041c5ea",
+  "productVersion": "1.104.36668.0",
+  "hash": "4d53602d11ab06dfb82e212f32667325fc37b0f2",
+  "timestamp": "1759613052824",
+  "sha256hash": "fb55ff344f90e7e54becff5c8b51b4fd57f5cf3a837bd57d38fa8115a3555851"
 }
