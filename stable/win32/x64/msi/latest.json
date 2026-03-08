@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/zokugun/MrCode/releases/download/1.110.11625/MrCode-x64-1.110.11625.msi",
-  "name": "1.110.11625",
-  "version": "cde807f06406c06b5b18660a04751be89deb58b3",
-  "productVersion": "1.110.11625.0",
-  "hash": "d45c2298a2a7b1c95e92f2dd4e2cd04a8b2ea46c",
-  "timestamp": "1772993787246",
-  "sha256hash": "511c0e548944bce88e24df23aa3c256a33427e5bd51684b3f319e32255a486e1"
+  "url": "https://github.com/zokugun/MrCode/releases/download/1.110.11627/MrCode-x64-1.110.11627.msi",
+  "name": "1.110.11627",
+  "version": "bf8a7d297187d3513af7c4aee50495217583adc2",
+  "productVersion": "1.110.11627.0",
+  "hash": "7f3cfa8811cbc633369a634363248864e853d210",
+  "timestamp": "1773000773897",
+  "sha256hash": "7760522d86aca3fb8704818839d583b24df4c4133eaa0f115ebbb4c758606d8f"
 }
